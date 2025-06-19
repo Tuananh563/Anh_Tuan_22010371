@@ -33,7 +33,7 @@ Postman cung cấp một bộ tính năng phong phú, biến nó thành một c�
 * **Tích hợp:** Postman có thể tích hợp với nhiều công cụ khác như Git, Jenkins, Slack, và các công cụ quản lý dự án.
 
 ### 4. Thực hành các chức năng của Postman
-* ** Gửi yêu cầu GET: Lấy danh sách người dùng
+* Gửi yêu cầu GET: Lấy danh sách người dùng
 * Chúng ta sẽ sử dụng API công cộng JSONPlaceholder để lấy danh sách người dùng. API này cung cấp các dữ liệu giả lập cho mục đích thử nghiệm.
 
 Các bước thực hiện:
@@ -46,7 +46,7 @@ Gửi yêu cầu: Nhấp vào nút Send (Gửi).
 Kết quả: 
 ![{947CDFF4-135B-487A-AD38-217AA9AD0C06}](https://github.com/user-attachments/assets/54e50fb9-97f9-43d1-a57d-3189f09eef7e)
 Kết quả kiểm thử chi tiết:
-[
+
     {
         "id": 1,
         "name": "Leanne Graham",
@@ -277,7 +277,6 @@ Kết quả kiểm thử chi tiết:
             "bs": "target end-to-end models"
         }
     }
-]
 * ** Gửi yêu cầu POST: Tạo một bài viết mới
 * chúng ta sẽ sử dụng cùng một API để tạo một bài viết mới. Yêu cầu POST thường được sử dụng để gửi dữ liệu lên server để tạo hoặc cập nhật tài nguyên.
 Các bước thực hiện:
